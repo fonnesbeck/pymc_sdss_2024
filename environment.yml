@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - hvplot
   - ipython
   - ipywidgets
   - jax
@@ -13,9 +14,10 @@ dependencies:
   - jupyterlab
   - numba
   - numpyro
-  - pandas
   - patsy
   - pip
+  - polars
+  - pyarrow
   - pymc
   - pydot
   - python-graphviz

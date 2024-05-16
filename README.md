@@ -1,6 +1,6 @@
 # Probabilistic Programming and Bayesian Computing with PyMC
 
-### SDSS 2024 Tutorial
+### [SDSS 2024](https://ww2.amstat.org/meetings/sdss/2024/) Tutorial
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fonnesbeck/pymc_sdss_2024/main) 
 
