@@ -11,6 +11,7 @@ dependencies:
   - jupyter_client
   - jupyter_core
   - jupyterlab
+  - numba
   - numpyro
   - pandas
   - patsy
