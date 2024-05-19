@@ -8,49 +8,19 @@ Bayesian statistical methods offer a powerful set of tools to tackle a wide vari
 
 ## Schedule
 
-### 8:30-9:00
-
-Preliminaries
-
-### 9:00-10:15
-
-Introduction to Bayesian Models
-
-### 10:15-10:30
-
-BREAK
-
-### 10:30-11:45
-
-Building models in PyMC
-
-### 11:45-12:45
-
-LUNCH
-
-### 12:45-14:00
-
-Fitting models with Markov chain Monte Carlo
-
-### 14:00-14:15
-
-BREAK
-
-### 14:15-15:30
-
-Hierarchical models
-
-### 15:30-15:45
-
-BREAK
-
-### 15:45-17:00
-
-Model checking
-
-### 17:00-17:30
-
-Closing Q&A
+| Time     | Event                             |
+|----------|-----------------------------------|
+| 8:30-9:00 | Preliminaries                     |
+| 9:00-10:15| Introduction to Bayesian Models   |
+| 10:15-10:30| BREAK                             |
+| 10:30-11:45| Building models in PyMC           |
+| 11:45-12:45| LUNCH                             |
+| 12:45-14:00| Fitting models with Markov chain Monte Carlo |
+| 14:00-14:15| BREAK                             |
+| 14:15-15:30| Hierarchical models               |
+| 15:30-15:45| BREAK                             |
+| 15:45-17:00| Model checking                    |
+| 17:00-17:30| Closing Q&A                       |
 
 ## Setup
 
