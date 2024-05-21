@@ -50,3 +50,5 @@ Then, you can start **JupyterLab** to access the materials:
 The binder link above should also provide a working environment.
 
 For those who like to work in VS Code, you can also run Jupyter notebooks from within VS Code. To do this, you will need to install the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter). Once this is installed, you can open the notebooks in the `notebooks` subdirectory and run them interactively.
+
+#### If you are having issues with setting up your environment, please start a thread in the [Discussion forum](https://github.com/fonnesbeck/pymc_sdss_2024/discussions) for this repository. Time will also be allocated at the start of the tutorial to help with setup issues.
