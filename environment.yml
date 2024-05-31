@@ -7,8 +7,6 @@ dependencies:
   - hvplot
   - ipython
   - ipywidgets
-  - jax
-  - jaxlib
   - jupyter_client
   - jupyter_core
   - jupyterlab
@@ -24,3 +22,5 @@ dependencies:
   - scipy
   - seaborn
   - setuptools
+  - pip:
+    - jax[cpu]
