@@ -19,7 +19,7 @@ Bayesian statistical methods offer a powerful set of tools to tackle a wide vari
 | 14:45-15:00| BREAK                             |
 | 15:00-16:00| Hierarchical models               |
 | 16:00-17:00| Model checking                    |
-| 17:00-17:30| Closing Q&A                       |
+| 17:00-17:30| Model comparison                  |
 
 ## Setup
 
