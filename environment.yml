@@ -11,7 +11,6 @@ dependencies:
   - jupyter_core
   - jupyterlab
   - numba
-  - numpyro
   - patsy
   - pip
   - polars
@@ -24,3 +23,4 @@ dependencies:
   - setuptools
   - pip:
     - jax[cpu]
+    - numpyro[cpu]
