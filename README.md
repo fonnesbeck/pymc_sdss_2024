@@ -18,8 +18,8 @@ Bayesian statistical methods offer a powerful set of tools to tackle a wide vari
 | 13:30-14:45| Fitting models with Markov chain Monte Carlo |
 | 14:45-15:00| BREAK                             |
 | 15:00-16:00| Hierarchical models               |
-| 16:00-17:00| Model checking                    |
-| 17:00-17:30| Model comparison                  |
+| 16:00-17:00| Model checking & comparison       |
+| 17:00-17:30| The Bayesian Workflow             |
 
 ## Setup
 
